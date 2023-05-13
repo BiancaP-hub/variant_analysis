@@ -1,2 +1,3 @@
-# variant_analysis
-Code for automated database integration to Nirvana and genetic variant analysis
+# Variant analysis
+Automation for genetic variant analysis using Nirvana tool with CardioDB integration
+Part of final work for Genomic Database Design (14104) course at Polytechnic University of Valencia
