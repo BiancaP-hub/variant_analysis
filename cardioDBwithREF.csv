@@ -1,0 +1,1217 @@
+,Gene,Nucleotide.Change,Protein.Change,Consequence,OMGL.class,LMM.class,Phenotype,Type,Location.GRCh37.,correct_ref
+0,MYH7,c.4048G>A,p.E1350K,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23887540,C
+1,MYH7,c.2555T>C,p.M852T,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894102,A
+3,MYH7,c.2401T>A,p.Y801N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23894513,A
+4,MYBPC3,c.2905+1G>A,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47356592,C
+5,PLN,c.152T>C,p.L51P,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr6:118880236,T
+6,TNNI3,c.573G>A,p.W191X,nonsense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55663262,C
+7,MYH7,c.3637G>A,p.V1213M,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23889143,C
+8,DSG2,c.136C>T,p.R46W,missense,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29099820,C
+10,MYH7,c.4132G>C,p.D1378H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23887456,C
+11,LAMP2,c.929-2A>G,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:119575751,T
+13,MYH7,c.5329G>A,p.A1777T,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23884434,C
+14,MYBPC3,c.2432A>G,p.K811R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47359112,T
+15,MYBPC3,c.1A>T,p.Met1?,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47374198,T
+16,MYH7,c.2606G>T,p.R869L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23894051,C
+17,LMNA,c.350A>G,p.K117R,missense,,VUS,Dilated Cardiomyopathy,substitution,chr1:156085059,A
+18,MYBPC3,c.484C>T,p.Q162X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47371586,G
+19,MYH7,c.578A>G,p.Q193R,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23901031,T
+21,MYH7,c.976G>C,p.A326P,missense,Likely Pathogenic,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23899792,C
+22,MYBPC3,c.2920C>T,p.Q974X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355547,G
+24,LDB3,c.530C>A,p.A177D,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:88441401,C
+25,TPM1,c.46G>C,p.E16Q,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63335074,G
+26,PLN,c.43G>A,p.A15T,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr6:118880127,G
+27,MYBPC3,c.1112C>T,p.P371L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47365154,G
+28,MYL2,c.459G>C,p.K153N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr12:111348923,C
+29,GLA,c.1168G>A,p.V390M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:100652919,C
+30,TTN,c.63625C>T,p.R21209X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179452411,G
+31,TNNT2,c.860G>A,p.W287X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201328345,C
+32,PRKAG2,c.166G>A,p.G56R,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151483576,C
+33,MYH7,c.4408T>C,p.S1470P,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23886473,A
+34,MYH7,c.4004C>T,p.S1335L,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23887584,G
+36,MYBPC3,c.2247C>A,p.Y749X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47360132,G
+38,MYH7,c.3046A>G,p.K1016E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23892809,T
+39,TPM1,c.368G>C,p.S123T,missense,VUS,,Dilated Cardiomyopathy,substitution,chr15:63349311,G
+42,DSG2,c.3342G>T,p.Q1114H,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29126691,G
+44,MYH7,c.3346G>A,p.E1116K,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23889434,C
+45,DSP,c.7847C>T,p.S2616L,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7585342,C
+46,TNNI3,c.557G>A,p.R186Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663278,C
+47,TNNT2,c.773A>T,p.K258I,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201330414,T
+49,LMNA,c.356G>C,p.R119P,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156085065,G
+50,LMNA,c.436G>A,p.A146T,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr1:156100487,G
+51,TPM1,c.523G>A,p.D175N,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63353098,G
+53,MYBPC3,c.701C>A,p.T234N,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47370046,G
+55,TNNT2,c.281G>A,p.R94H,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334419,C
+56,MYH7,c.4411C>T,p.Q1471X,nonsense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23886470,G
+58,PRKAG2,c.428C>T,p.S143L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151478276,G
+59,MYBPC3,c.1153G>A,p.V385M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47365113,C
+60,MYH7,c.2348G>C,p.R783P,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23894566,C
+61,MYH7,c.5690G>A,p.R1897H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23883068,C
+62,DSG2,c.2332G>T,p.D778Y,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29122813,G
+63,TNNT2,c.388C>T,p.R130C,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201333497,G
+65,MYBPC3,c.*26+2T>C,,essential splice site,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:0,
+66,DSC2,c.630G>C,p.E210D,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:28669402,C
+68,MYH7,c.137T>G,p.F46C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23902805,A
+69,MYH7,c.611G>A,p.R204H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23900998,C
+70,LMNA,c.16C>T,p.Q6X,nonsense,,Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156084725,C
+71,TPM1,c.688G>A,p.D230N,missense,Pathogenic,Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63354462,G
+72,PLN,c.121T>A,p.C41S,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr6:118880205,T
+73,MYBPC3,c.1828G>C,p.D610H,missense,VUS,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr11:47362758,C
+74,PKP2,c.2119C>T,p.Q707X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32974316,G
+75,MYH7,c.4048G>A,p.E1350K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23887540,C
+76,MYH7,c.2678C>T,p.A893V,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23893979,G
+77,MYL2,c.170G>A,p.G57E,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111352094,C
+78,MYH7,c.1987C>T,p.R663C,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896043,G
+79,MYH7,c.2770G>A,p.E924K,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893268,C
+83,MYH7,c.2742G>T,p.Q914H,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893296,C
+85,MYH7,c.799C>G,p.L267V,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900206,G
+86,MYBPC3,c.1886T>C,p.L629P,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47362700,A
+88,MYBPC3,c.1483C>G,p.R495G,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364270,G
+89,MYH7,c.1132A>C,p.T378P,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23898990,T
+90,MYBPC3,c.3815-1G>A,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353433,C
+91,MYH7,c.4135G>A,p.A1379T,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23887453,C
+92,GLA,c.776C>G,p.P259R,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:100653798,G
+93,MYH7,c.1496A>G,p.E499G,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23897791,T
+95,TNNT2,c.502G>C,p.A168P,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201332492,C
+96,MYBPC3,c.2030C>T,p.P677L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47361239,G
+97,MYH7,c.2217G>T,p.R739S,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894973,C
+98,MYH7,c.5342G>A,p.R1781H,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884421,C
+100,MYH7,c.1148A>G,p.K383R,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23898547,T
+101,TTN,c.3034C>T,p.Arg1012X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr2:179647599,G
+102,MYH7,c.2389G>C,p.A797P,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23894525,C
+103,MYH7,c.904C>A,p.L302M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23899864,G
+104,MYH7,c.1856C>T,p.T619I,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23896826,G
+106,MYBPC3,c.1624G>C,p.E542Q,missense,Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364129,C
+107,DSP,c.943C>T,p.R315C,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7566613,C
+108,MYL3,c.466G>T,p.V156L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr3:46900980,C
+109,MYBPC3,c.3771C>A,p.N1257K,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47353666,G
+110,LDB3,c.1320_1343del,p.Ala442_Pro449del,inframe,,VUS,Dilated Cardiomyopathy,substitution,chr10:88476172-88476195,.
+111,MYH7,c.2699A>G,p.D900G,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893339,T
+113,TNNI3,c.602T>C,p.M201T,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663233,A
+114,MYH7,c.161G>A,p.R54Q,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23902781,C
+115,MYBPC3,c.1080G>C,p.K360N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47367768,C
+116,PLN,c.46T>C,p.S16P,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr6:118880130,T
+117,TPM1,c.762T>G,p.D254E,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63354834,T
+118,MYBPC3,c.223G>A,p.D75N,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47372859,C
+119,MYBPC3,c.1950C>G,p.D650E,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47361319,G
+120,PKP2,c.2490-1G>C,,essential splice site,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32945666,C
+121,DSP,c.1381A>G,p.I461V,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7568784,A
+123,TNNT2,c.236T>A,p.I79N,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334766,A
+124,LMNA,c.640-2A>G,,essential splice site,Pathogenic,,Dilated Cardiomyopathy,substitution,chr1:156104594,A
+126,DSP,c.2609T>C,p.I870T,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7575700,T
+127,MYBPC3,c.1720C>T,p.R574W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47363612,G
+128,MYBPC3,c.917G>A,p.R306Q,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47368187,C
+129,TPM1,c.343G>A,p.E115K,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63349286,G
+130,MYH7,c.2302G>A,p.G768R,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894612,C
+131,MYL2,c.499T>C,p.*167Glnext*91,nonsense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr12:111348883,A
+132,MYBPC3,c.1273C>T,p.Q425X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364650,G
+133,PKP2,c.235C>T,p.R79X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33031955,G
+134,MYH7,c.4300C>T,p.R1434C,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr14:23886765,G
+135,MYH7,c.1182C>A,p.D394E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23898513,G
+136,TNNT2,c.251G>C,p.R84T,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334751,C
+137,MYH7,c.2725A>G,p.I909V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23893313,T
+138,MYH7,c.3464G>A,p.G1155E,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23889316,C
+139,MYBPC3,c.1120C>T,p.Q374X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47365146,G
+140,MYBPC3,c.2374T>C,p.W792R,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359280,A
+141,MYH7,c.1625A>G,p.K542R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23897057,T
+142,MYBPC3,c.844C>T,p.R282W,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47369209,G
+143,MYBPC3,c.557C>T,p.P186L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47371422,G
+144,MYBPC3,c.3627+1G>T,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354116,C
+145,MYH7,c.2502C>G,p.F834L,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894155,G
+146,MYH7,c.3899A>T,p.Q1300L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23888459,T
+147,DSP,c.699G>A,p.W233X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr6:7562986,G
+148,MYBPC3,c.103C>T,p.R35W,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47372979,G
+149,MYBPC3,c.3408C>A,p.Y1136X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354447,G
+150,DSP,c.4501G>T,p.E1501X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7580924,G
+151,PKP2,c.1754C>G,p.S585X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32977031,G
+153,MYH7,c.742A>T,p.I248F,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23900681,T
+154,MYH7,c.2776C>G,p.L926V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893262,G
+155,DSG2,c.908C>T,p.S303F,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29104745,C
+156,MYH7,c.1283C>T,p.A428V,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898288,G
+158,MYH7,c.789A>G,p.I263M,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23900634,T
+159,NEXN,c.1457C>G,p.A486G,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:78401713,C
+160,MYH7,c.2011C>T,p.R671C,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896019,G
+163,MYBPC3,c.2309-2A>G,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359347,T
+164,MYBPC3,c.2308+1G>T,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47360070,C
+165,MYBPC3,c.2953A>G,p.K985E,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47355514,T
+167,ABCC9,c.1358G>C,p.G453A,missense,,VUS,Dilated Cardiomyopathy,substitution,chr12:22061108,C
+168,MYL3,c.461G>A,p.R154H,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr3:46900985,C
+169,MYH7,c.2701G>C,p.A901P,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23893337,C
+170,MYH7,c.4343A>G,p.N1448S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23886722,T
+171,MYH7,c.2015G>T,p.C672F,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr14:23896015,C
+172,MYBPC3,c.772+1G>A,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47369974,C
+173,MYBPC3,c.518C>A,p.T173N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47371461,G
+174,TTN,c.44272C>T,p.R14758X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179494977,G
+175,MYBPC3,c.821+1G>A,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47369407,C
+176,MYH7,c.1268C>T,p.A423V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23898303,G
+178,MYBPC3,c.1418T>C,p.F473S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47364420,A
+179,MYBPC3,c.655-1G>A,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47370093,C
+180,MYH7,c.4259G>T,p.R1420L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23886806,C
+182,MYH7,c.5725C>T,p.R1909W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23883033,G
+183,MYH7,c.1549C>A,p.L517M,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23897738,G
+184,MYH7,c.1045A>G,p.M349V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23899077,T
+185,MYL2,c.392C>G,p.S131C,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111350910,G
+186,LAMP2,c.864+1G>T,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:119580159,C
+187,MYBPC3,c.1960C>T,p.R654C,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr11:47361309,G
+188,MYH7,c.2906A>C,p.H969P,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893132,T
+190,MYH7,c.596C>T,p.A199V,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23901013,G
+191,MYBPC3,c.148A>G,p.S50G,missense,VUS,VUS,Dilated Cardiomyopathy,substitution,chr11:47372934,T
+192,MYBPC3,c.2533C>T,p.R845C,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359011,G
+193,PRKAG2,c.563A>G,p.E188G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151372627,T
+194,LDB3,c.1320_1343dup,p.Pro441_Ser448dup,inframe,,VUS,Dilated Cardiomyopathy,substitution,chr10:88476172-88476195,.
+195,MYH7,c.848A>G,p.Y283C,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900157,T
+196,PKP2,c.2489+1G>A,,essential splice site,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32949042,C
+197,MYH7,c.3493A>G,p.K1165E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889287,T
+198,MYL3,c.187C>T,p.R63C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr3:46902286,G
+199,DSG2,c.145C>T,p.R49C,missense,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29099829,C
+200,TNNI3,c.509G>A,p.R170Q,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665438,C
+201,MYH7,c.1727A>G,p.H576R,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896955,T
+202,MYBPC3,c.290C>T,p.A97V,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47372792,G
+203,PKP2,c.2146-1G>C,,essential splice site,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32955491,C
+204,MYH7,c.4000C>T,p.Q1334X,nonsense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23887588,G
+205,MYBPC3,c.3728C>G,p.P1243R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47353709,G
+206,MYBPC3,c.3811C>T,p.R1271X,nonsense,VUS,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353626,G
+207,MYH7,c.968T>C,p.I323T,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23899800,A
+208,TPM1,c.712C>T,p.R238W,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr15:63354784,C
+209,PRKAG2,c.488C>T,p.P163L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151372702,G
+210,TTN,c.12742C>T,p.Q4248X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179605218,G
+211,DSP,c.3195C>G,p.Y1065X,nonsense,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7579618,C
+212,MYBPC3,c.3129C>A,p.Y1043X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47355169,G
+213,MYBPC3,c.3614G>A,p.R1205Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47354130,C
+214,MYH7,c.2246T>A,p.L749Q,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894944,A
+215,MYBPC3,c.3825A>G,p.X1275TrpextX77,nonsense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353422,T
+216,MYH7,c.1447G>A,p.E483K,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23897840,C
+217,MYH7,c.4108C>A,p.Q1370K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23887480,G
+218,MYH7,c.2471T>C,p.V824A,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894186,A
+219,MYBPC3,c.3335G>A,p.W1112X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354520,C
+220,MYH7,c.2572C>G,p.R858G,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23894085,G
+221,PKP2,c.2393C>G,p.T798R,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32949139,G
+222,MYBPC3,c.745T>C,p.C249R,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47370002,A
+223,MYBPC3,c.2449C>T,p.R817W,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47359095,G
+224,MYBPC3,c.3019T>C,p.W1007R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47355279,A
+225,LMNA,c.868G>A,p.E290K,missense,VUS,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105035,G
+226,TTN,c.46782C>A,p.Tyr15594X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr2:179483495,G
+227,MYH7,c.3064A>G,p.K1022E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23892791,T
+228,MYBPC3,c.3163A>T,p.K1055X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47355135,T
+229,MYH7,c.2156G>A,p.R719Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895179,C
+230,TPM1,c.337C>G,p.L113V,missense,Likely Pathogenic,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63349280,C
+231,MYBPC3,c.1090+2T>C,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47367756,A
+232,LMNA,c.513+1G>C,,essential splice site,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156100565,G
+233,MYH7,c.2285A>G,p.K762R,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894905,T
+234,MYBPC3,c.2873C>T,p.T958I,missense,VUS,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr11:47356625,G
+235,MYBPC3,c.1021G>C,p.G341R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47367827,C
+236,MYL2,c.358C>T,p.R120W,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111350944,G
+237,MYBPC3,c.1156G>T,p.E386X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47365110,C
+238,TNNI3,c.470C>T,p.A157V,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr19:55665477,G
+239,MYBPC3,c.994G>A,p.E332K,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47367854,C
+240,MYH7,c.2198G>A,p.G733E,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894992,C
+241,TNNI3,c.285C>A,p.D95E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55666196,G
+242,MYL2,c.64G>A,p.E22K,missense,Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111356937,C
+243,ACTC1,c.355G>C,p.E119Q,missense,,VUS,Dilated Cardiomyopathy,substitution,chr15:35085545,C
+244,MYL3,c.517A>G,p.M173V,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr3:46899916,T
+245,MYH7,c.4532A>C,p.D1511A,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23886189,T
+246,MYH7,c.4720C>T,p.R1574W,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23885446,G
+247,TNNT2,c.833G>C,p.R278P,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201328372,C
+248,DSP,c.8309A>G,p.Y2770C,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7585804,A
+249,TTN,c.74104C>T,p.Q24702X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179436755,G
+251,TPM1,c.835A>C,p.N279H,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63356325,A
+252,PLN,c.116T>G,p.L39X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr6:118880200,T
+253,DSP,c.4868C>G,p.S1623C,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7581291,C
+254,MYH7,c.5530G>A,p.E1844K,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23884233,C
+255,TNNI3,c.592C>G,p.L198V,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663243,G
+256,MYBPC3,c.2381C>A,p.P794Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47359273,G
+257,MYH7,c.3236G>A,p.R1079Q,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23891398,C
+258,VCL,c.3373C>T,p.R1125C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:75877895,C
+259,DSP,c.3133C>T,p.R1045X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7579556,C
+260,MYH7,c.1051A>G,p.K351E,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23899071,T
+261,MYH7,c.602T>C,p.I201T,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23901007,A
+262,MYH7,c.5020G>A,p.V1674M,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23884975,C
+263,MYH7,c.3475G>A,p.V1159M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889305,C
+264,MYH7,c.1499A>C,p.E500A,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23897788,T
+265,MYH7,c.619A>C,p.K207Q,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900990,T
+266,MYH7,c.3593A>G,p.D1198G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889187,T
+267,MYH7,c.2717A>G,p.D906G,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893321,T
+268,TTN,c.14194C>T,p.Q4732X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179602986,G
+269,TNNT2,c.400C>T,p.R134W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201333485,G
+270,MYH7,c.1370T>C,p.I457T,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898201,A
+271,MYBPC3,c.3049G>A,p.E1017K,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr11:47355249,C
+272,MYBPC3,c.2603-1G>C,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47357563,C
+273,MYH7,c.4954G>T,p.D1652Y,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23885041,C
+274,ACTC1,c.28C>A,p.L10M,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:35086982,G
+276,TNNT2,c.613C>T,p.R205W,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr1:201331117,G
+277,DSC2,c.1150G>C,p.V384L,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:28662317,C
+278,MYBPC3,c.1291G>A,p.D431N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47364632,C
+279,MYBPC3,c.1624+2T>C,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364127,A
+280,DSP,c.131G>A,p.R44Q,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7542279,G
+281,DSP,c.3133C>T,p.R1045X,nonsense,Pathogenic,,Dilated Cardiomyopathy,substitution,chr6:7579556,C
+283,MYBPC3,c.2738-2A>G,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47356762,T
+284,MYL2,c.163G>T,p.A55S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr12:111353525,C
+285,MYH7,c.4643A>T,p.E1548V,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23886078,T
+286,MYH7,c.2470G>C,p.V824L,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894187,C
+287,TTN,c.102949C>T,p.Gln34317X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr2:179398393,G
+288,MYBPC3,c.1591G>A,p.G531R,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364162,C
+289,MYBPC3,c.1505G>T,p.R502L,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364248,C
+290,MYL3,c.383G>A,p.G128D,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr3:46901063,C
+291,MYH7,c.49C>T,p.R17C,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23902893,G
+293,MYL3,c.170C>G,p.A57G,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr3:46902303,G
+294,MYH7,c.793A>T,p.T265S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23900630,T
+295,DSC2,c.2152G>A,p.A718T,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:28650790,C
+296,MYH7,c.920C>A,p.P307H,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23899848,G
+297,TNNT2,c.649A>G,p.K217E,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201331081,T
+298,MYL3,c.520G>C,p.A174P,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr3:46899913,C
+299,TTN,c.12587C>A,p.S4196X,nonsense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr2:179605373,G
+301,MYH7,c.3578G>A,p.R1193H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889202,C
+302,MYBPC3,c.532G>A,p.V178M,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47371447,C
+303,MYBPC3,c.1224-1G>T,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47364814,C
+304,TTN,c.82470G>A,p.W27490X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179428389,C
+305,TAZ,c.208C>T,p.Q70X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chrX:153640521,C
+306,MYH7,c.5380C>G,p.Q1794E,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23884383,G
+307,PRKAG2,c.905G>A,p.R302Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr7:151273498,C
+308,TNNT2,c.257A>C,p.D86A,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334745,T
+309,MYH7,c.5329G>A,p.A1777T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23884434,C
+311,MYH7,c.3169G>A,p.G1057S,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23891465,C
+312,MYH7,c.1357C>A,p.R453S,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898214,G
+313,TTN,c.62722C>T,p.R20908X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179453730,G
+315,MYH7,c.925G>A,p.D309N,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23899843,C
+316,MYH7,c.5192A>T,p.D1731V,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884681,T
+317,MYBPC3,c.2584C>T,p.Q862X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47358960,G
+318,MYH7,c.2287G>A,p.V763M,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894627,C
+320,TNNT2,c.652G>T,p.V218L,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr1:201331078,C
+321,MYH7,c.1804A>T,p.N602Y,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23896878,T
+322,MYH7,c.2221G>A,p.G741R,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894969,C
+323,MYH7,c.1514G>T,p.G505V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23897773,C
+324,MYH7,c.2682A>C,p.E894D,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23893356,T
+327,LMNA,c.1622G>A,p.R541H,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr1:156107458,G
+328,LMNA,c.175C>A,p.L59M,missense,VUS,,Dilated Cardiomyopathy,substitution,chr1:156084884,C
+329,MYH7,c.438G>T,p.K146N,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23901912,C
+330,GLA,c.70T>A,p.W24R,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chrX:100662822,A
+331,MYH7,c.5696T>C,p.V1899A,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23883062,A
+332,MYH7,c.4348G>A,p.D1450N,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23886717,C
+333,MYH7,c.3856G>A,p.E1286K,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23888502,C
+334,MYH7,c.298G>A,p.A100T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23902340,C
+335,TNNI3,c.379G>C,p.D127H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55665568,C
+336,DSP,c.4996C>T,p.R1666W,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7581419,C
+337,TTN,c.85713G>A,p.W28571X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179425146,C
+338,DSP,c.8390T>C,p.I2797T,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7585885,T
+339,TPM1,c.91G>A,p.A31T,missense,,VUS,Dilated Cardiomyopathy,substitution,chr15:63335119,G
+340,TNNI3,c.470C>T,p.A157V,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665477,G
+341,MYBPC3,c.2459G>A,p.R820Q,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359085,C
+343,MYH7,c.507A>T,p.R169S,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23901711,T
+344,MYBPC3,c.2737+2T>A,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47357426,A
+345,TTN,c.31035T>G,p.Y10345X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179560764,A
+347,MYH7,c.1012G>A,p.V338M,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23899110,C
+348,MYL3,c.281G>A,p.R94H,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr3:46902192,C
+349,MYH7,c.505A>G,p.R169G,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23901713,T
+350,TPM1,c.676A>C,p.K226Q,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63354450,A
+351,TTN,c.35083G>T,p.E11695X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179536842,C
+352,MYBPC3,c.1624+1G>A,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47364128,C
+353,MYBPC3,c.2828G>A,p.R943Q,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47356670,C
+354,MYL3,c.445A>G,p.M149V,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr3:46901001,T
+355,MYBPC3,c.1213A>G,p.M405V,missense,VUS,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47365053,T
+356,DSP,c.2130+1G>C,,essential splice site,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7572302,G
+357,TPM1,c.797A>G,p.K266R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63356287,A
+361,DSP,c.2046C>A,p.C682X,nonsense,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7572217,C
+363,FHL1,c.556T>C,p.F186L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135290668,T
+364,TAZ,c.718G>C,p.G240R,missense,,Pathogenic,Dilated Cardiomyopathy,substitution,chrX:153649015,G
+366,MYH7,c.2782G>A,p.D928N,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893256,C
+368,MYH7,c.5135G>A,p.R1712Q,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884860,C
+371,DSP,c.8120T>C,p.M2707T,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7585615,T
+372,MYBPC3,c.206G>A,p.R69Q,missense,,Likely Benign,Dilated Cardiomyopathy,substitution,chr11:47372876,C
+373,PKP2,c.1689-1G>C,,essential splice site,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32977097,C
+374,MYBPC3,c.3G>C,p.Met1?,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47374196,C
+376,PRKAG2,c.1006G>A,p.V336I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151269795,C
+377,TPM1,c.842T>C,p.M281T,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:63356332,T
+378,MYH7,c.115G>A,p.V39M,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23902827,C
+380,MYL2,c.119G>A,p.R40K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr12:111353569,C
+381,DSP,c.4670C>T,p.T1557M,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7581093,C
+383,MYH7,c.1231G>A,p.V411I,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23898464,C
+384,GLA,c.729G>C,p.L243F,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:100653845,C
+385,TPM1,c.734C>T,p.S245L,missense,,VUS,Dilated Cardiomyopathy,substitution,chr15:63354806,C
+387,MYH7,c.3231T>G,p.D1077E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23891403,A
+388,MYBPC3,c.2995-1G>A,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47355304,C
+389,MYH7,c.3428T>G,p.L1143R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889352,A
+390,MYH7,c.920C>T,p.P307L,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23899848,G
+391,MYH7,c.1759G>A,p.D587N,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896923,C
+392,TTN,c.100825C>T,p.R33609X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179400517,G
+393,MYBPC3,c.1246G>A,p.G416S,missense,,Likely Benign,Dilated Cardiomyopathy,substitution,chr11:47364677,C
+395,MYH7,c.1121A>T,p.E374V,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23899001,T
+396,GLA,c.691G>A,p.D231N,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:100653883,C
+397,MYBPC3,c.1351+1G>A,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364571,C
+399,TPM1,c.97G>A,p.E33K,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr15:63335125,G
+400,TNNI3,c.575G>A,p.R192H,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663260,C
+401,TNNI3,c.512C>A,p.A171D,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55665435,G
+402,TTN,c.46773T>A,p.Tyr15591X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr2:179483504,A
+403,FHL1,c.661T>C,p.C221R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135290773,T
+404,MYH7,c.727C>T,p.R243C,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900799,G
+405,PKP2,c.68G>A,p.G23E,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33049598,C
+406,DSP,c.4711C>T,p.Q1571X,nonsense,Pathogenic,,Dilated Cardiomyopathy,substitution,chr6:7581134,C
+407,ABCC9,c.1987C>T,p.R663C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr12:22035732,G
+408,DSP,c.4221A>C,p.E1407D,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7580644,A
+409,MYH7,c.4985G>A,p.R1662H,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23885010,C
+411,LMNA,c.154C>G,p.L52V,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156084863,C
+412,TPM1,c.774C>G,p.D258E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63356264,C
+415,MYBPC3,c.1672G>A,p.A558T,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47363660,C
+416,MYH7,c.2432T>C,p.L811P,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894225,A
+417,MYH7,c.2353A>G,p.I785V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23894561,T
+418,LAMP2,c.517G>A,p.V173I,missense,VUS,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chrX:119582864,C
+419,MYBPC3,c.3676C>T,p.R1226C,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47353761,G
+421,TNNI3,c.575G>T,p.R192L,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663260,C
+422,NEXN,c.1937C>A,p.P646Q,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:78408423,C
+424,TNNI3,c.605A>C,p.E202A,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55663230,T
+425,MYL3,c.11A>G,p.K4R,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr3:46904870,T
+427,DSP,c.8495G>T,p.G2832V,missense,,VUS,Dilated Cardiomyopathy,substitution,chr6:7585990,G
+428,MYH7,c.2546T>C,p.M849T,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894111,A
+429,TTN,c.24019C>T,p.R8007X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179584098,G
+430,MYH7,c.4078G>A,p.V1360I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23887510,C
+431,LDB3,c.343G>A,p.G115S,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:88441214,G
+432,MYBPC3,c.1458-1G>A,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364296,C
+433,MYBPC3,c.1021G>A,p.G341S,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367827,C
+434,MYBPC3,c.365C>A,p.A122D,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47372094,G
+435,MYBPC3,c.3791G>A,p.C1264Y,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47353646,C
+436,MYBPC3,c.1928-2A>G,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47361343,T
+437,MYBPC3,c.2909G>A,p.R970Q,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47355558,C
+438,MYBPC3,c.3364A>T,p.T1122S,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354491,T
+439,DSP,c.8481_8492del,p.Ser2843_Arg2846del,inframe,,VUS,Dilated Cardiomyopathy,substitution,chr6:7585976-7585987,.
+440,MYH7,c.1166G>A,p.G389E,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898529,C
+441,TPM1,c.341A>G,p.E114G,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63349284,A
+442,TTN,c.51436C>T,p.Q17146X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179474817,G
+443,MYH7,c.1208G>A,p.R403Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898487,C
+444,PRKAG2,c.1267C>A,p.Q423K,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151262938,G
+445,TTN,c.45307C>T,p.Arg15103X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr2:179486244,G
+446,MYH7,c.788T>C,p.I263T,missense,Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900635,A
+447,TNNI3,c.390G>C,p.Q130H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55665557,C
+448,MYH7,c.5020G>T,p.V1674L,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23884975,C
+449,MYH7,c.3548T>A,p.L1183Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889232,A
+450,MYBPC3,c.1976T>C,p.I659T,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr11:47361293,A
+451,TNNI3,c.544G>A,p.E182K,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr19:55665403,C
+452,MYL2,c.275G>T,p.G92V,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111351128,C
+453,MYH7,c.5172C>G,p.I1724M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23884701,G
+454,DSP,c.939+1G>A,,essential splice site,Pathogenic,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr6:7565754,G
+455,MYBPC3,c.1789C>T,p.R597W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47363543,G
+456,MYBPC3,c.1457G>A,p.W486X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47364381,C
+457,MYH7,c.2711G>A,p.R904H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893327,C
+458,MYH7,c.1013T>C,p.V338A,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23899109,A
+459,TNNI3,c.383T>A,p.L128Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55665564,A
+460,MYBPC3,c.3452C>T,p.A1151V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47354403,G
+461,DSP,c.1103T>C,p.I368T,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7567645,T
+463,TNNT2,c.857G>A,p.R286H,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201328348,C
+465,MYBPC3,c.1123G>A,p.V375M,missense,VUS,,Dilated Cardiomyopathy,substitution,chr11:47365143,C
+466,TNNT2,c.281G>T,p.R94L,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334419,C
+467,MYH7,c.968T>A,p.I323N,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23899800,A
+468,TNNI3,c.434G>A,p.R145Q,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665513,C
+469,MYH7,c.709C>T,p.R237W,missense,,VUS,Dilated Cardiomyopathy,substitution,chr14:23900817,G
+470,MYH7,c.767G>A,p.G256E,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23900656,C
+471,ACTC1,c.797C>T,p.P266L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:35084302,G
+472,MYBPC3,c.2265C>A,p.N755K,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47360114,G
+474,MYH7,c.5291T>A,p.M1764K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23884472,A
+475,TNNI3,c.65G>A,p.R22H,missense,,VUS,Dilated Cardiomyopathy,substitution,chr19:55668461,C
+476,MYH7,c.2456G>A,p.R819Q,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23894201,C
+477,MYL3,c.338C>T,p.T113I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr3:46901108,G
+478,MYH7,c.2207T>C,p.I736T,missense,Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894983,A
+479,MYH7,c.4283T>C,p.L1428S,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23886782,A
+480,LMNA,c.949G>A,p.E317K,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105704,G
+481,PKP2,c.775G>T,p.E259X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33031039,C
+482,MYL3,c.188G>A,p.R63H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr3:46902285,C
+484,MYH7,c.1969A>C,p.K657Q,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896061,T
+485,MYH7,c.1988G>A,p.R663H,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896042,C
+486,VCL,c.1844C>T,p.A615V,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:75857062,C
+487,MYL3,c.466G>A,p.V156M,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr3:46900980,C
+488,ACTC1,c.475G>A,p.D159N,missense,,VUS,Dilated Cardiomyopathy,substitution,chr15:35084750,C
+489,MYBPC3,c.1224-2A>G,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364815,T
+490,DES,c.193G>A,p.G65S,missense,,VUS,Dilated Cardiomyopathy,substitution,chr2:220283377,G
+491,TNNI3,c.484C>T,p.R162W,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr19:55665463,G
+492,MYH7,c.1477A>T,p.M493L,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23897810,T
+493,MYH7,c.1324C>T,p.R442C,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898247,G
+494,MYBPC3,c.2429G>A,p.R810H,missense,VUS,,Dilated Cardiomyopathy,substitution,chr11:47359115,C
+496,MYH7,c.5401G>A,p.E1801K,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23884362,C
+497,MYH7,c.728G>A,p.R243H,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr14:23900798,C
+498,TCAP,c.493C>G,p.Q165E,missense,,VUS,Dilated Cardiomyopathy,substitution,chr17:37822351,C
+499,LMNA,c.739G>A,p.E247K,missense,,VUS,Dilated Cardiomyopathy,substitution,chr1:156104695,G
+502,MYBPC3,c.2309-1G>A,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47359346,C
+503,MYH7,c.1491G>T,p.E497D,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23897796,C
+505,MYH7,c.3170G>A,p.G1057D,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23891464,C
+506,MYH7,c.1003G>T,p.A335S,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23899119,C
+507,MYBPC3,c.1455A>T,p.K485N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47364383,T
+508,PLN,c.-97-2A>T,,essential splice site,VUS,,Hypertrophic Cardiomyopathy,substitution,chr6:0,
+509,LAMP2,c.877C>T,p.R293X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:119576505,G
+510,MYL2,c.458A>G,p.K153R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr12:111348924,T
+512,LMNA,c.1129C>T,p.R377C,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105884,C
+513,TNNI3,c.625G>A,p.E209K,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663210,C
+514,MYBPC3,c.2909G>A,p.R970Q,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47355558,C
+515,MYH7,c.710G>A,p.R237Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23900816,C
+516,PRKAG2,c.1592G>T,p.R531L,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr7:151257696,C
+517,TNNT2,c.252A>T,p.R84S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201334750,T
+518,MYBPC3,c.3605G>A,p.C1202Y,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354139,C
+519,MYH7,c.428G>A,p.R143Q,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23901922,C
+520,MYBPC3,c.3470C>T,p.P1157L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47354385,G
+521,MYBPC3,c.1294G>A,p.A432T,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47364629,C
+522,SGCD,c.394G>A,p.V132I,missense,,VUS,Dilated Cardiomyopathy,substitution,chr5:156021953,G
+523,MYBPC3,c.3614G>C,p.R1205P,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354130,C
+525,MYBPC3,c.1841A>G,p.Y614C,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47362745,T
+526,TNNI3,c.422G>A,p.R141Q,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665525,C
+527,MYH7,c.5380C>A,p.Q1794K,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884383,G
+528,MYH7,c.1358G>A,p.R453H,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898213,C
+529,MYH7,c.2572C>T,p.R858C,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894085,G
+530,MYBPC3,c.2504G>T,p.R835L,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47359040,C
+531,MYBPC3,c.655G>C,p.V219L,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47370092,C
+533,MYH7,c.5341C>T,p.R1781C,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884422,G
+535,LMNA,c.811-2A>C,,essential splice site,Pathogenic,,Dilated Cardiomyopathy,substitution,chr1:156104976,A
+536,MYH7,c.1405G>T,p.D469Y,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23898166,C
+537,MYH7,c.4816C>T,p.R1606C,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23885350,G
+539,LMNA,c.1442A>G,p.Y481C,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156106773,A
+540,TNNT2,c.421C>T,p.R141W,missense,Pathogenic,Pathogenic,Dilated Cardiomyopathy,substitution,chr1:201333464,G
+542,MYBPC3,c.3694A>T,p.K1232X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353743,T
+543,MYBPC3,c.2436G>T,p.K812N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47359108,C
+544,TNNI3,c.497C>T,p.S166F,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665450,G
+545,PRKAG2,c.1315A>G,p.I439V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151262890,T
+547,DES,c.449G>C,p.R150P,missense,VUS,,Dilated Cardiomyopathy,substitution,chr2:220283633,G
+548,MYBPC3,c.2170C>T,p.R724W,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47360209,G
+549,MYH7,c.2573G>A,p.R858H,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23894084,C
+550,MYH7,c.731T>G,p.F244C,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23900795,A
+551,DSG2,c.1880-2A>G,,essential splice site,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29121154,A
+552,LAMP2,c.824A>G,p.N275S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chrX:119580200,T
+553,TPM1,c.82G>A,p.D28N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:63335110,G
+554,LMNA,c.1106T>C,p.L369P,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105861,T
+555,MYBPC3,c.2312T>C,p.V771A,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47359342,A
+557,MYBPC3,c.3256T>C,p.W1086R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47354819,A
+558,TNNT2,c.178A>G,p.M60V,missense,,VUS,Dilated Cardiomyopathy,substitution,chr1:201335991,T
+559,LMNA,c.481G>A,p.E161K,missense,,Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156100532,G
+561,MYBPC3,c.3697C>T,p.Q1233X,nonsense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353740,G
+563,MYH7,c.958G>A,p.V320M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23899810,C
+564,TNNI3,c.368C>T,p.T123M,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr19:55666113,G
+565,PKP2,c.2493T>A,p.Y831X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32945662,A
+566,TNNI3,c.389A>G,p.Q130R,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr19:55665558,T
+568,MYH7,c.809A>G,p.K270R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23900196,T
+570,MYBPC3,c.1685C>T,p.A562V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47363647,G
+572,MYH7,c.1436A>G,p.N479S,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23897851,T
+573,MYH7,c.2183C>T,p.A728V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23895007,G
+574,MYH7,c.1352A>C,p.Q451P,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23898219,T
+575,MYH7,c.5156A>G,p.Q1719R,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884839,T
+576,MYH7,c.1608G>T,p.E536D,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23897074,C
+577,PRKAG2,c.1648A>C,p.I550L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151257640,T
+578,DES,c.38C>T,p.S13F,missense,,Pathogenic,Dilated Cardiomyopathy,substitution,chr2:220283222,C
+579,ABCC9,c.4352T>C,p.V1451A,missense,,VUS,Dilated Cardiomyopathy,substitution,chr12:21960377,A
+580,MYH7,c.4664A>G,p.E1555G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23885502,T
+581,MYH7,c.4418A>G,p.E1473G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23886463,T
+582,ACTC1,c.1099G>A,p.A367T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:35082648,C
+583,MYBPC3,c.2827C>T,p.R943X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47356671,G
+585,MYBPC3,c.927-2A>G,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367923,T
+586,MYH7,c.2167C>T,p.R723C,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895023,G
+588,ACTC1,c.229A>G,p.I77V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:35085671,T
+589,MYH7,c.541G>A,p.G181R,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr14:23901068,C
+592,MYL2,c.173G>A,p.R58Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111352091,C
+593,MYBPC3,c.1731G>C,p.W577C,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47363601,C
+595,MYH7,c.508G>A,p.E170K,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23901710,C
+596,DSP,c.3751G>A,p.D1251N,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7580174,G
+597,MYH7,c.1753A>T,p.I585F,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23896929,T
+598,MYL3,c.466G>C,p.V156L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr3:46900980,C
+599,MYBPC3,c.1591G>C,p.G531R,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364162,C
+600,MYBPC3,c.1343T>C,p.F448S,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364580,A
+601,DSC2,c.1766T>C,p.M589T,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:28654771,A
+604,MYH7,c.2738T>C,p.I913T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893300,A
+605,ACTC1,c.7G>C,p.D3H,missense,,VUS,Dilated Cardiomyopathy,substitution,chr15:35087003,C
+606,LAMP2,c.371C>T,p.T124I,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chrX:119589238,G
+607,TNNI3,c.167T>C,p.I56T,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55667684,A
+608,MYBPC3,c.1828G>A,p.D610N,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47362758,C
+609,MYL2,c.193G>A,p.E65K,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111352071,C
+611,MYBPC3,c.3548T>G,p.F1183C,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354196,A
+612,MYBPC3,c.3281A>T,p.N1094I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47354794,T
+613,MYBPC3,c.2149-1G>A,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47360231,C
+614,TPM1,c.475G>A,p.D159N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63351862,G
+615,MYH7,c.4136C>A,p.A1379D,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23887452,G
+616,MYH7,c.5740G>A,p.E1914K,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23883018,C
+618,MYH7,c.1597A>G,p.I533V,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23897085,T
+619,MYBPC3,c.1586C>G,p.T529S,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364167,G
+620,DSP,c.4477G>T,p.E1493X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7580900,G
+622,MYBPC3,c.3753T>G,p.Y1251X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353684,A
+623,MYBPC3,c.799C>G,p.L267V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47369430,G
+624,MYH7,c.2692C>G,p.L898V,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893346,G
+625,MYBPC3,c.2993A>G,p.Q998R,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355474,T
+626,TNNT2,c.534G>C,p.L178F,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201332460,C
+627,MYBPC3,c.2906-2A>G,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355563,T
+628,GLA,c.485G>T,p.W162L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chrX:100656682,C
+631,DSP,c.6181C>T,p.P2061S,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7583676,C
+632,LMNA,c.448A>C,p.T150P,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156100499,A
+633,MYH7,c.3626A>G,p.N1209S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23889154,T
+634,MYBPC3,c.529C>T,p.R177C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47371450,G
+635,MYBPC3,c.3098G>A,p.R1033Q,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47355200,C
+636,SGCD,c.731C>T,p.P244L,missense,,VUS,Dilated Cardiomyopathy,substitution,chr5:156186259,C
+637,TNNT2,c.416G>A,p.R139H,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:201333469,C
+638,DSP,c.521G>T,p.C174F,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7559557,G
+641,MYH7,c.1279C>A,p.L427M,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23898292,G
+642,MYBPC3,c.2541C>A,p.Y847X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359003,G
+643,DSP,c.7784C>T,p.T2595I,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7585279,C
+644,PLN,c.61C>A,p.P21T,missense,,VUS,Dilated Cardiomyopathy,substitution,chr6:118880145,C
+646,MYBPC3,c.3746G>T,p.G1249V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47353691,C
+647,MYH7,c.4259G>A,p.R1420Q,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23886806,C
+648,FHL1,c.211T>A,p.C71S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135289229,T
+649,MYBPC3,c.1575T>G,p.Y525X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364178,A
+650,TPM1,c.644C>T,p.S215L,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63354418,C
+651,LAMP2,c.929-1G>A,,essential splice site,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:119575750,C
+652,MYH7,c.610C>T,p.R204C,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23900999,G
+653,TNNT2,c.734C>T,p.A245V,missense,,VUS,Dilated Cardiomyopathy,substitution,chr1:201330453,G
+655,MYH7,c.3664A>G,p.S1222G,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23889116,T
+656,PRKAG2,c.1516G>C,p.E506Q,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr7:151261232,C
+657,TPM1,c.423G>C,p.M141I,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63351810,G
+658,TNNT2,c.451C>T,p.R151C,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201333434,G
+659,MYH7,c.2894A>G,p.E965G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893144,T
+661,MYBPC3,c.3742_3759dup,p.Gly1248_Cys1253dup,inframe,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353678-47353695,.
+662,MYBPC3,c.1090+1G>A,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367757,C
+663,MYH7,c.595G>A,p.A199T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23901014,C
+664,MYH7,c.2549C>A,p.A850D,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23894108,G
+665,PKP2,c.1170+1G>C,,essential splice site,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33021860,C
+666,MYBPC3,c.3767_3769delCCA,p.Thr1256del,inframe,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353668-47353670,.
+667,MYH7,c.2788G>C,p.E930Q,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893250,C
+668,MYBPC3,c.818G>A,p.R273H,missense,VUS,,Dilated Cardiomyopathy,substitution,chr11:47369411,C
+669,MYH7,c.3994G>A,p.A1332T,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23887594,C
+670,MYBPC3,c.2454G>A,p.W818X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359090,C
+671,PRKAG2,c.1703C>T,p.T568M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151254294,G
+672,MYH7,c.1541G>A,p.G514D,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23897746,C
+673,TNNT2,c.415C>T,p.R139C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr1:201333470,G
+674,MYH7,c.3289G>A,p.E1097K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23890214,C
+675,MYH7,c.4537A>T,p.T1513S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23886184,T
+676,MYH7,c.739T>C,p.F247L,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900684,A
+677,MYH7,c.1228T>G,p.Y410D,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23898467,A
+678,MYH7,c.2681A>G,p.E894G,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893357,T
+679,MYBPC3,c.3742G>A,p.G1248R,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47353695,C
+681,PKP2,c.1177C>T,p.Q393X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33003901,G
+682,MYH7,c.746G>A,p.R249Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900677,C
+683,DSP,c.6496C>T,p.R2166X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7583991,C
+684,MYBPC3,c.993_994insT,p.E332X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367854-47367855,.
+685,MYH7,c.2846A>T,p.E949V,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893192,T
+686,MYBPC3,c.241G>T,p.V81F,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47372841,C
+687,PKP2,c.275T>A,p.L92X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33031915,A
+688,DES,c.127A>G,p.K43E,missense,,VUS,Dilated Cardiomyopathy,substitution,chr2:220283311,A
+689,LMNA,c.1003C>T,p.R335W,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105758,C
+690,MYBPC3,c.442G>A,p.G148R,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47371628,C
+691,TNNI3,c.611G>A,p.R204H,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663224,C
+693,DSP,c.478C>T,p.R160X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7559514,C
+694,MYL2,c.485G>A,p.G162E,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111348897,C
+695,MYBPC3,c.3739G>A,p.D1247N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47353698,C
+696,MYH7,c.2080C>T,p.R694C,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895255,G
+697,MYL3,c.64G>T,p.A22S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr3:46904817,C
+698,TPM1,c.655G>A,p.D219N,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63354429,G
+699,TNNT2,c.487G>A,p.E163K,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr1:201332507,C
+700,MYBPC3,c.966G>A,p.W322X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367882,C
+701,TNNI3,c.356C>A,p.T119N,missense,,VUS,Dilated Cardiomyopathy,substitution,chr19:55666125,G
+703,MYL2,c.257T>C,p.F86S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr12:111352007,A
+704,MYH7,c.5647G>A,p.E1883K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23883224,C
+705,MYH7,c.2359C>T,p.R787C,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23894555,G
+706,MYBPC3,c.1231A>G,p.I411V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47364692,T
+707,TNNT2,c.426T>G,p.N142K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201333459,A
+708,MYL2,c.402G>C,p.E134D,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111350900,C
+709,MYBPC3,c.3330+1G>C,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354744,C
+710,DSP,c.1325C>T,p.S442F,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7568728,C
+711,PRKAG2,c.1687C>T,p.Q563X,nonsense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151254310,G
+712,MYH7,c.1207C>T,p.R403W,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898488,G
+713,MYH7,c.2683C>G,p.Q895E,missense,,VUS,Dilated Cardiomyopathy,substitution,chr14:23893355,G
+714,MYH7,c.4258C>T,p.R1420W,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23886807,G
+715,MYL3,c.128A>C,p.K43T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr3:46904753,T
+716,MYH7,c.2221G>C,p.G741R,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894969,C
+717,DSP,c.607G>A,p.D203N,missense,,VUS,Dilated Cardiomyopathy,substitution,chr6:7562894,G
+718,TPM1,c.82G>C,p.D28H,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63335110,G
+719,PRKAG2,c.989A>G,p.Y330C,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151271993,T
+721,MYBPC3,c.2671C>T,p.R891W,missense,VUS,,Dilated Cardiomyopathy,substitution,chr11:47357494,G
+722,TTN,c.47314C>T,p.R15772X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179482764,G
+723,MYH7,c.2191C>G,p.P731A,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894999,G
+725,MYBPC3,c.713G>A,p.R238H,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47370034,C
+726,MYH7,c.1750G>C,p.G584R,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896932,C
+728,DSP,c.7940G>A,p.G2647D,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7585435,G
+729,MYH7,c.1357C>T,p.R453C,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898214,G
+730,MYH7,c.2744T>C,p.L915P,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893294,A
+732,MYH7,c.343T>C,p.Y115H,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23902295,A
+734,MYBPC3,c.3331-1G>A,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354525,C
+735,TNNT2,c.421C>T,p.R141W,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201333464,G
+736,MYBPC3,c.2269G>A,p.V757M,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47360110,C
+738,MYH7,c.1346C>T,p.T449I,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23898225,G
+739,GLA,c.961C>G,p.Q321E,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:100653396,G
+740,VCL,c.2852C>G,p.P951R,missense,,Likely Benign,Dilated Cardiomyopathy,substitution,chr10:75871773,C
+741,MYBPC3,c.631G>A,p.D211N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47371348,C
+742,TTN,c.46803G>A,p.W15601X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179483474,C
+743,DSP,c.6885A>T,p.Q2295H,missense,,VUS,Dilated Cardiomyopathy,substitution,chr6:7584380,A
+744,MYH7,c.3373G>C,p.E1125Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889407,C
+746,MYH7,c.2101G>A,p.G701S,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895234,C
+747,DSC2,c.1938T>G,p.Y646X,nonsense,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:28651758,A
+748,TNNT2,c.330T>G,p.F110L,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334370,A
+749,MYH7,c.184G>A,p.E62K,missense,,VUS,Dilated Cardiomyopathy,substitution,chr14:23902758,C
+750,MYBPC3,c.3656T>C,p.L1219P,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47353781,A
+751,LAMP2,c.928G>A,p.V310I,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:119576454,C
+752,MYBPC3,c.2048G>A,p.W683X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47361221,C
+755,TNNT2,c.145G>C,p.E49Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201336923,C
+756,MYBPC3,c.2747G>A,p.W916X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47356751,C
+757,MYH7,c.4817G>A,p.R1606H,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23885349,C
+758,TNNT2,c.244G>A,p.G82R,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334758,C
+759,MYH7,c.1207C>G,p.R403G,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23898488,G
+761,MYH7,c.2069T>C,p.M690T,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895266,A
+762,MYBPC3,c.2371C>T,p.Q791X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47359283,G
+763,FHL1,c.395G>T,p.C132F,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135290014,G
+764,TPM1,c.275T>C,p.I92T,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63349218,T
+765,MYH7,c.3341G>A,p.R1114H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889439,C
+766,TNNI3,c.549G>C,p.K183N,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr19:55665398,C
+767,TPM1,c.829G>A,p.A277T,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr15:63356319,G
+768,MYH7,c.1433T>A,p.I478N,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23897854,A
+769,MYH7,c.1871A>G,p.Y624C,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896811,T
+770,MYBPC3,c.1790G>A,p.R597Q,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47363542,C
+771,MYH7,c.677C>T,p.A226V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23900849,G
+772,PRKAG2,c.1508A>G,p.Q503R,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151261240,T
+773,TNNT2,c.391C>T,p.R131W,missense,Likely Pathogenic,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr1:201333494,G
+774,TPM1,c.548C>T,p.A183V,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:63353123,C
+775,MYBPC3,c.2737+1G>C,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47357427,C
+776,MYBPC3,c.1766G>A,p.R589H,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47363566,C
+777,DSC2,c.2396G>A,p.G799E,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:28648972,C
+778,MYBPC3,c.3713T>C,p.L1238P,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47353724,A
+779,MYBPC3,c.2573G>A,p.S858N,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47358971,C
+780,DSP,c.4117A>G,p.T1373A,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7580540,A
+781,ABCC9,c.1142T>A,p.I381N,missense,,VUS,Dilated Cardiomyopathy,substitution,chr12:22063782,A
+782,MYBPC3,c.2300A>G,p.K767R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47360079,T
+784,MYBPC3,c.713G>A,p.R238H,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47370034,C
+785,MYBPC3,c.2320G>A,p.A774T,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47359334,C
+786,MYH7,c.2602G>C,p.A868P,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894055,C
+787,PRKAG2,c.1030C>T,p.H344Y,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr7:151269771,G
+788,TNNT2,c.283A>G,p.M95V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201334417,T
+789,MYH7,c.2783A>C,p.D928A,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23893255,T
+790,DSP,c.860A>G,p.N287S,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7565674,A
+792,MYH7,c.2455C>T,p.R819W,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23894202,G
+793,MYH7,c.3325A>G,p.K1109E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23890178,T
+794,GLA,c.782G>T,p.G261V,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:100653792,C
+796,MYH7,c.5587C>T,p.R1863W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23883284,G
+797,LMNA,c.863C>G,p.A288G,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105030,C
+798,PKP2,c.941G>A,p.G314E,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33030873,C
+799,MYH7,c.1315A>T,p.M439L,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898256,T
+800,TPM1,c.252C>G,p.D84E,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:63349195,C
+801,MYH7,c.1573G>A,p.E525K,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23897714,C
+802,ACTC1,c.1069A>G,p.M357V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:35082678,T
+803,MYH7,c.2631G>A,p.M877I,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23894026,C
+804,MYBPC3,c.3413G>C,p.R1138P,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47354442,C
+805,MYH7,c.4660G>A,p.E1554K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23885506,C
+806,MYBPC3,c.818G>A,p.R273H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47369411,C
+807,MYBPC3,c.1456T>G,p.W486G,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364382,A
+808,TNNI3,c.593T>G,p.L198R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55663242,A
+809,LMNA,c.356+2T>G,,essential splice site,Pathogenic,,Dilated Cardiomyopathy,substitution,chr1:156085067,T
+810,MYH7,c.5287G>A,p.A1763T,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884476,C
+811,MYH7,c.2779G>A,p.E927K,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893259,C
+812,MYH7,c.1579C>A,p.P527T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23897103,G
+813,MYBPC3,c.1540A>G,p.I514V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47364213,T
+814,TTN,c.76865G>A,p.W25622X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179433994,C
+815,MYH7,c.4066G>A,p.E1356K,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23887522,C
+817,ACTC1,c.301G>A,p.E101K,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:35085599,C
+819,TNNI3,c.490A>G,p.K164E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55665457,T
+820,MYH7,c.2899G>A,p.E967K,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893139,C
+821,MYBPC3,c.49C>T,p.R17W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47373033,G
+822,MYH7,c.1157A>G,p.Y386C,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898538,T
+823,LDB3,c.1472T>A,p.V491E,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:88476324,T
+824,TPM1,c.632C>G,p.A211G,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63353980,C
+825,MYBPC3,c.2723A>G,p.Y908C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47357442,T
+826,TCAP,c.388C>T,p.R130C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr17:37822246,C
+828,TPM1,c.841A>G,p.M281V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:63356331,A
+829,MYH7,c.641G>A,p.G214D,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23900885,C
+831,GLA,c.1066C>T,p.R356W,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:100653021,G
+832,MYBPC3,c.2834G>A,p.R945Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47356664,C
+833,MYBPC3,c.1778C>T,p.S593F,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47363554,G
+834,DSP,c.3562T>C,p.Y1188H,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7579985,T
+835,MYH7,c.964T>A,p.S322T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23899804,A
+836,DSG2,c.2434G>A,p.G812S,missense,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29125783,G
+837,MYH7,c.4864C>T,p.L1622F,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23885302,G
+839,MYBPC3,c.3065G>A,p.R1022H,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355233,C
+840,TNNI3,c.231C>A,p.S77R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55667620,G
+841,TNNI3,c.581A>C,p.N194T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55663254,T
+842,PKP2,c.358G>T,p.E120X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33031456,C
+843,MYH7,c.872C>T,p.S291F,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900133,G
+845,PRKAG2,c.47G>C,p.S16T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151573659,C
+846,GLA,c.644A>G,p.N215S,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:100653930,T
+848,TNNI3,c.586G>A,p.D196N,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663249,C
+849,DSP,c.943C>T,p.R315C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr6:7566613,C
+850,GLA,c.525C>G,p.D175E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:100656642,G
+851,PKP2,c.1999G>T,p.E667X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32974436,C
+852,MYBPC3,c.3763G>A,p.A1255T,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353674,C
+853,LMNA,c.976T>A,p.S326T,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105731,T
+854,MYH7,c.2609G>A,p.R870H,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894048,C
+855,MYH7,c.2608C>T,p.R870C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23894049,G
+856,TNNT2,c.392G>A,p.R131Q,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:201333493,C
+857,MYBPC3,c.2182G>T,p.E728X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47360197,C
+859,MYH7,c.589G>A,p.V197I,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23901020,C
+861,MYH7,c.611G>T,p.R204L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23900998,C
+862,ACTC1,c.83C>T,p.A28V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:35086927,G
+863,MYH7,c.1954A>G,p.R652G,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23896451,T
+864,MYH7,c.2788G>A,p.E930K,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893250,C
+865,MYH7,c.5773C>T,p.R1925C,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23882985,G
+866,DSP,c.448C>T,p.R150X,nonsense,Pathogenic,,Dilated Cardiomyopathy,substitution,chr6:7559484,C
+867,TPM1,c.725C>T,p.A242V,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63354797,C
+868,MYH7,c.632C>T,p.P211L,missense,Likely Pathogenic,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23900977,G
+869,MYH7,c.2389G>A,p.A797T,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894525,C
+872,MYBPC3,c.821+2T>G,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47369406,A
+873,MYBPC3,c.3613C>T,p.R1205W,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354131,G
+875,DSP,c.4022G>A,p.R1341H,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7580445,G
+876,MYH7,c.3622G>A,p.D1208N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23889158,C
+879,MYBPC3,c.3357C>A,p.Y1119X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354498,G
+880,MYBPC3,c.2065C>T,p.Q689X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47361204,G
+881,TPM1,c.461T>C,p.I154T,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr15:63351848,T
+882,MYH7,c.734G>A,p.G245E,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23900689,C
+883,MYH7,c.1791C>A,p.N597K,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23896891,G
+884,MYBPC3,c.2450G>A,p.R817Q,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359094,C
+885,MYBPC3,c.2670G>A,p.W890X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47357495,C
+886,DSP,c.1288G>T,p.E430X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7568691,G
+887,TPM1,c.23T>G,p.M8R,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63335051,T
+888,MYBPC3,c.3330+2T>G,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354743,A
+889,MYH7,c.1142C>A,p.A381D,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23898553,G
+890,MYBPC3,c.3677G>T,p.R1226L,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47353760,C
+893,MYBPC3,c.2748G>A,p.W916X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47356750,C
+894,MYH7,c.2716G>A,p.D906N,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893322,C
+895,DSP,c.2161G>A,p.E721K,missense,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7574349,G
+897,MYH7,c.2719C>A,p.Q907K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23893319,G
+898,MYH7,c.2785G>A,p.E929K,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23893253,C
+899,MYBPC3,c.3065G>C,p.R1022P,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355233,C
+900,FHL1,c.280A>G,p.T94A,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135289298,A
+901,TNNI3,c.596G>A,p.S199N,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr19:55663239,C
+902,LMNA,c.961C>T,p.R321X,nonsense,Pathogenic,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105716,C
+903,TNNT2,c.311C>T,p.A104V,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334389,G
+904,DSP,c.2799G>C,p.L933F,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7577197,G
+905,PRKAG2,c.1066G>A,p.E356K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151267297,C
+906,TNNI3,c.590C>G,p.A197G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55663245,G
+907,MYH7,c.2746G>A,p.E916K,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893292,C
+908,MYH7,c.2501T>A,p.F834Y,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23894156,A
+909,TPM1,c.305C>A,p.A102D,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63349248,C
+910,DSG2,c.146G>A,p.R49H,missense,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29099830,G
+911,MYBPC3,c.126G>A,p.W42X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47372956,C
+912,MYH7,c.2220G>T,p.K740N,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23894970,C
+913,PKP2,c.2540T>C,p.L847P,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32945615,A
+914,PKP2,c.663C>A,p.Y221X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33031151,G
+915,ACTC1,c.76G>A,p.D26N,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:35086934,C
+917,MYH7,c.2296A>C,p.K766Q,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894618,T
+918,MYH7,c.748A>G,p.I250V,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900675,T
+919,MYBPC3,c.3190+1G>A,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355107,C
+920,NEXN,c.1112C>T,p.P371L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:78399025,C
+921,MYH7,c.3208G>A,p.E1070K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23891426,C
+922,MYBPC3,c.373G>T,p.A125S,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47372086,C
+923,LMNA,c.1111_1125del,p.Met371_Ala375del,inframe,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105866-156105880,.
+924,MYH7,c.2539A>G,p.K847E,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894118,T
+925,VCL,c.2444A>G,p.K815R,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr10:75866997,A
+926,MYH7,c.2973G>T,p.K991N,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23892882,C
+927,TPM1,c.359C>T,p.A120V,missense,VUS,,Dilated Cardiomyopathy,substitution,chr15:63349302,C
+928,MYBPC3,c.2219G>C,p.G740A,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47360160,C
+929,MYBPC3,c.3373G>A,p.V1125M,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354482,C
+930,MYBPC3,c.148A>G,p.S50G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47372934,T
+931,MYBPC3,c.3798C>G,p.C1266W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47353639,G
+933,MYBPC3,c.2234A>G,p.D745G,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47360145,T
+934,MYH7,c.5471A>G,p.N1824S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23884292,T
+937,MYH7,c.835G>A,p.A279T,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23900170,C
+938,MYBPC3,c.3005G>A,p.R1002Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47355293,C
+939,MYBPC3,c.2525A>G,p.Y842C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47359019,T
+940,MYH7,c.2206A>G,p.I736V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23894984,T
+941,TNNI3,c.626A>C,p.E209A,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr19:55663209,T
+942,MYH7,c.1700G>A,p.R567H,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23896982,C
+943,MYH7,c.1570A>G,p.I524V,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23897717,T
+945,MYH7,c.5110C>T,p.Q1704X,nonsense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23884885,G
+946,MYH7,c.2710C>T,p.R904C,missense,,Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23893328,G
+947,TNNI3,c.610C>T,p.R204C,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663225,G
+948,MYH7,c.1220G>T,p.G407V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23898475,C
+949,MYBPC3,c.1433C>T,p.S478L,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47364405,G
+951,MYH7,c.1544T>C,p.M515T,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23897743,A
+952,ABCC9,c.2000C>A,p.T667K,missense,,VUS,Dilated Cardiomyopathy,substitution,chr12:22035719,G
+953,MYH7,c.1490A>G,p.E497G,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23897797,T
+954,MYH7,c.4540G>A,p.E1514K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23886181,C
+955,TNNT2,c.530C>A,p.A177D,missense,,VUS,Dilated Cardiomyopathy,substitution,chr1:201332464,G
+956,TTN,c.98506C>T,p.R32836X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179404286,G
+958,MYH7,c.3967G>A,p.V1323I,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr14:23888391,C
+960,ABCC9,c.4613A>G,p.N1538S,missense,,VUS,Dilated Cardiomyopathy,substitution,chr12:21958145,T
+961,MYBPC3,c.994G>A,p.E332K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47367854,C
+962,MYH7,c.2425G>T,p.D809Y,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23894232,C
+963,PRKAG2,c.1436T>C,p.I479T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151262433,A
+964,PRKAG2,c.1475T>A,p.I492N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151261273,A
+965,DSP,c.944G>C,p.R315P,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7566614,G
+966,MYBPC3,c.1358C>T,p.P453L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47364480,G
+968,ACTC1,c.268C>T,p.H90Y,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:35085632,G
+969,TNNT2,c.833G>A,p.R278H,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201328372,C
+971,MYH7,c.2155C>T,p.R719W,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895180,G
+972,MYH7,c.2105T>A,p.I702N,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895230,A
+974,MYL3,c.521C>T,p.A174V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr3:46899912,G
+975,TPM1,c.118G>T,p.Glu40X,nonsense,,VUS,Dilated Cardiomyopathy,substitution,chr15:63336229,G
+976,TPM1,c.699G>C,p.K233N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63354473,G
+979,LMNA,c.1412G>A,p.R471H,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156106743,G
+980,TPM1,c.574G>A,p.E192K,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63353922,G
+981,DES,c.1019G>A,p.G340D,missense,VUS,,Dilated Cardiomyopathy,substitution,chr2:220285671,G
+982,TNNI3,c.557G>A,p.R186Q,missense,Pathogenic,,Dilated Cardiomyopathy,substitution,chr19:55663278,C
+983,PRKAG2,c.425C>T,p.T142I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151478279,G
+985,PRKAG2,c.532G>A,p.E178K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151372658,C
+986,MYH7,c.2711G>A,p.R904H,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23893327,C
+987,SGCD,c.839C>A,p.S280Y,missense,,VUS,Dilated Cardiomyopathy,substitution,chr5:156186367,C
+988,NEXN,c.392A>G,p.Q131R,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:78383903,A
+989,VCL,c.3092G>A,p.R1031Q,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:75874084,G
+990,MYH7,c.1345A>T,p.T449S,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23898226,T
+991,MYBPC3,c.1223+2T>C,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47365041,A
+992,PRKAG2,c.608G>A,p.R203K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151372582,C
+994,MYBPC3,c.1210C>T,p.Q404X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47365056,G
+995,MYBPC3,c.2249C>T,p.T750M,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47360130,G
+996,LMNA,c.1201C>T,p.R401C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr1:156106048,C
+997,TNNI3,c.439G>C,p.V147L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55665508,C
+998,MYBPC3,c.104G>A,p.R35Q,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47372978,C
+999,MYBPC3,c.2641G>A,p.V881I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47357524,C
+1000,MYBPC3,c.3490+1G>A,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354364,C
+1001,MYH7,c.427C>T,p.R143W,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23901923,G
+1002,MYH7,c.2644C>G,p.Q882E,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894013,G
+1003,MYH7,c.3133C>T,p.R1045C,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23891501,G
+1004,TNNI3,c.568G>T,p.D190Y,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663267,C
+1005,MYL2,c.239C>A,p.T80N,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111352025,G
+1006,MYH7,c.1106G>A,p.R369Q,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23899016,C
+1007,TTN,c.13900G>T,p.E4634X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179604060,C
+1008,MYH7,c.715G>A,p.D239N,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900811,C
+1009,MYBPC3,c.1351+2T>C,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364570,A
+1012,MYH7,c.2498A>G,p.Y833C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23894159,T
+1013,MYBPC3,c.3206C>A,p.P1069H,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354869,G
+1014,PRKAG2,c.722G>A,p.G241D,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151329187,C
+1016,DSP,c.868G>A,p.E290K,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7565682,G
+1018,MYBPC3,c.2953A>T,p.K985X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355514,T
+1019,DSP,c.415C>T,p.Q139X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7558490,C
+1021,VCL,c.1639C>T,p.R547X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr10:75855509,C
+1022,MYL2,c.142G>T,p.D48Y,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111353546,C
+1024,TNNI3,c.428C>A,p.T143N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr19:55665519,G
+1025,MYH7,c.2700T>A,p.D900E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893338,A
+1026,MYH7,c.1208G>T,p.R403L,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23898487,C
+1027,MYL3,c.460C>T,p.R154C,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr3:46900986,G
+1028,MYH7,c.293A>T,p.E98V,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23902345,T
+1029,PRKAG2,c.186G>T,p.K62N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151483556,C
+1031,MYH7,c.2881C>G,p.L961V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893157,G
+1033,MYBPC3,c.3277G>T,p.G1093C,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47354798,C
+1034,MYH7,c.4636G>C,p.E1546Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23886085,C
+1035,MYBPC3,c.772G>A,p.E258K,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47369975,C
+1036,FHL1,c.523A>C,p.T175P,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135290635,A
+1037,MYBPC3,c.931T>A,p.S311T,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47367917,A
+1038,MYH7,c.1630A>G,p.T544A,missense,,VUS,Dilated Cardiomyopathy,substitution,chr14:23897052,T
+1039,MYH7,c.4145G>A,p.R1382Q,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23887443,C
+1040,MYH7,c.80A>G,p.Q27R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23902862,T
+1041,PRKAG2,c.865G>A,p.V289I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr7:151273538,C
+1042,MYH7,c.5561C>T,p.T1854M,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23883310,G
+1043,MYH7,c.2536G>C,p.E846Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23894121,C
+1044,LMNA,c.700C>T,p.Q234X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156104656,C
+1045,TPM1,c.695T>G,p.L232R,missense,VUS,,Dilated Cardiomyopathy,substitution,chr15:63354469,T
+1047,TPM1,c.302G>C,p.R101P,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63349245,G
+1048,TNNT2,c.291G>T,p.K97N,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr1:201334409,C
+1049,TNNT2,c.821+1G>T,,essential splice site,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201328750,C
+1050,TPM1,c.416A>T,p.E139V,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr15:63351803,A
+1051,MYBPC3,c.2308+1G>A,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47360070,C
+1052,MYBPC3,c.1756C>G,p.P586A,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47363576,G
+1054,DSP,c.6788T>C,p.I2263T,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7584283,T
+1055,MYBPC3,c.710A>C,p.Y237S,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47370037,T
+1056,DSP,c.7012G>A,p.G2338R,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7584507,G
+1058,MYBPC3,c.1303C>T,p.Q435X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47364620,G
+1059,MYBPC3,c.2429G>A,p.R810H,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359115,C
+1060,MYL3,c.446T>C,p.M149T,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr3:46901000,A
+1062,DES,c.735+3A>G,p.Asp214_Glu245del,inframe,,Pathogenic,Dilated Cardiomyopathy,substitution,chr2:220285071,A
+1063,FHL1,c.142G>A,p.G48S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135288733,G
+1065,LDB3,c.1907G>A,p.C636Y,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:88478533,G
+1066,MYH7,c.3982G>A,p.A1328T,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23887606,C
+1067,MYBPC3,c.1174G>T,p.A392S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47365092,C
+1069,MYL2,c.428C>T,p.P143L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr12:111348954,G
+1070,TNNT2,c.325C>T,p.H109Y,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr1:201334375,G
+1072,MYBPC3,c.1471G>A,p.V491M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47364282,C
+1073,MYBPC3,c.3286G>T,p.E1096X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354789,C
+1074,MYL3,c.539A>G,p.N180S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr3:46899894,T
+1075,TNNT2,c.785A>G,p.N262S,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201328787,T
+1076,MYH7,c.4525A>C,p.I1509L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23886196,T
+1078,MYBPC3,c.747C>A,p.C249X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47370000,G
+1079,MYH7,c.737A>T,p.K246I,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23900686,T
+1080,TNNI3,c.485G>A,p.R162Q,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665462,C
+1081,MYBPC3,c.187C>T,p.R63W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47372895,G
+1082,MYL3,c.454G>A,p.E152K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr3:46900992,C
+1083,VCL,c.562C>T,p.R188X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr10:75832550,C
+1084,MYH7,c.1757T>C,p.V586A,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896925,A
+1085,MYH7,c.3830G>A,p.R1277Q,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23888715,C
+1088,DES,c.832C>T,p.R278W,missense,VUS,,Dilated Cardiomyopathy,substitution,chr2:220285313,C
+1089,MYBPC3,c.1090+1G>T,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367757,C
+1090,PKP2,c.1063C>T,p.R355X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33021968,G
+1091,MYH7,c.2627_2629delAGA,p.Lys876del,inframe,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894028-23894030,.
+1092,MYBPC3,c.1693A>T,p.K565X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47363639,T
+1094,MYBPC3,c.596T>G,p.L199R,missense,VUS,,Dilated Cardiomyopathy,substitution,chr11:47371383,A
+1095,MYH7,c.983A>G,p.E328G,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23899785,T
+1096,MYBPC3,c.2210C>T,p.T737M,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47360169,G
+1097,LDB3,c.826C>T,p.R276C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:88451789,C
+1098,TNNI3,c.488C>G,p.A163G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55665459,G
+1099,LMNA,c.1621C>T,p.R541C,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156107457,C
+1100,ACTC1,c.124C>T,p.H42Y,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:35086886,G
+1101,LAMP2,c.795C>A,p.C265X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:119580229,G
+1102,MYH7,c.1402T>C,p.F468L,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23898169,A
+1103,MYH7,c.2081G>A,p.R694H,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23895254,C
+1104,MYBPC3,c.3572C>T,p.S1191L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47354172,G
+1105,MYH7,c.1060G>A,p.G354S,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23899062,C
+1107,NEXN,c.893C>G,p.T298R,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr1:78395029,C
+1108,MYBPC3,c.3491-2A>T,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354255,T
+1109,DSP,c.1759T>A,p.Y587N,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7571673,T
+1110,MYH7,c.1426C>G,p.L476V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23897861,G
+1111,MYH7,c.2623_2625delGAG,p.Glu875del,inframe,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894032-23894034,.
+1112,MYH7,c.5088G>C,p.E1696D,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23884907,C
+1113,MYBPC3,c.932C>T,p.S311L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47367916,G
+1115,DSG2,c.874C>T,p.R292C,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29104711,C
+1116,LMNA,c.1046G>A,p.R349Q,missense,VUS,,Dilated Cardiomyopathy,substitution,chr1:156105801,G
+1117,MYH7,c.5704G>C,p.E1902Q,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23883054,C
+1118,MYBPC3,c.1897+1G>A,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47362688,C
+1119,MYBPC3,c.333_334insT,p.E112X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47372125-47372126,.
+1120,MYH7,c.431G>T,p.G144V,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr14:23901919,C
+1121,MYBPC3,c.2965G>T,p.E989X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355502,C
+1123,MYBPC3,c.2300A>G,p.K767R,missense,VUS,,Dilated Cardiomyopathy,substitution,chr11:47360079,T
+1124,MYBPC3,c.326C>T,p.A109V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47372133,G
+1125,MYBPC3,c.2526C>G,p.Y842X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47359018,G
+1126,MYBPC3,c.1505G>A,p.R502Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364248,C
+1127,TNNT2,c.476G>A,p.R159Q,missense,VUS,,Dilated Cardiomyopathy,substitution,chr1:201332518,C
+1128,MYBPC3,c.3627+1G>A,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354116,C
+1129,TPM1,c.677A>G,p.K226R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63354451,A
+1131,MYH7,c.4004C>T,p.S1335L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23887584,G
+1132,TNNI3,c.485G>C,p.R162P,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665462,C
+1136,MYL3,c.463C>G,p.H155D,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr3:46900983,G
+1137,DSP,c.1445G>A,p.C482Y,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7569444,G
+1138,MYH7,c.5326A>G,p.S1776G,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884437,T
+1139,PRKAG2,c.431C>T,p.P144L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151478273,G
+1140,LDB3,c.1475C>T,p.T492I,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:88476327,C
+1141,LMNA,c.673C>T,p.R225X,nonsense,,Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156104629,C
+1142,MYH7,c.2543A>G,p.E848G,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894114,T
+1145,MYH7,c.2680G>A,p.E894K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893358,C
+1146,TNNT2,c.821+1G>C,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr1:201328750,C
+1147,TPM1,c.64G>A,p.A22T,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63335092,G
+1148,VCL,c.313C>T,p.R105X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr10:75830501,C
+1149,VCL,c.1390A>C,p.K464Q,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:75854066,A
+1150,MYH7,c.4436C>T,p.T1479I,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23886445,G
+1151,FHL1,c.221C>G,p.P74R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135289239,C
+1152,TAZ,c.752G>T,p.R251L,missense,,VUS,Dilated Cardiomyopathy,substitution,chrX:153649049,G
+1153,PRKAG2,c.1459T>G,p.Y487D,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151261289,A
+1154,MYBPC3,c.188G>A,p.R63Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47372894,C
+1155,MYBPC3,c.3064C>T,p.R1022C,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355234,G
+1156,TNNI3,c.511G>A,p.A171T,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr19:55665436,C
+1157,MYBPC3,c.1934C>T,p.P645L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47361335,G
+1158,MYL2,c.184A>T,p.K62X,nonsense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111352080,T
+1159,TNNT2,c.805A>G,p.N269D,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201328767,T
+1161,MYH7,c.2129C>T,p.P710L,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895206,G
+1162,MYH7,c.2845G>A,p.E949K,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893193,C
+1164,MYBPC3,c.3154A>G,p.M1052V,missense,VUS,,Dilated Cardiomyopathy,substitution,chr11:47355144,T
+1165,TPM1,c.746T>G,p.L249W,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr15:63354818,T
+1166,MYH7,c.2722C>G,p.L908V,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893316,G
+1167,DSC2,c.199A>G,p.S67G,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:28672219,T
+1168,TPM1,c.481A>G,p.K161E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63351868,A
+1169,TNNT2,c.767A>G,p.Q256R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201330420,T
+1170,MYBPC3,c.853G>A,p.D285N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47369029,C
+1172,MYH7,c.3578G>A,p.R1193H,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23889202,C
+1174,LDB3,c.1910C>T,p.A637V,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:88478536,C
+1176,MYH7,c.2683C>A,p.Q895K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893355,G
+1177,TNNT2,c.460-1G>C,,essential splice site,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201332535,C
+1178,MYH7,c.2462T>C,p.F821S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23894195,A
+1179,MYBPC3,c.2905+1G>C,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47356592,C
+1180,MYBPC3,c.3083C>G,p.T1028S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47355215,G
+1181,TTN,c.57847+1G>A,,essential splice site,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr2:179460233,C
+1182,MYBPC3,c.613C>T,p.Q205X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47371366,G
+1185,PRKAG2,c.1647C>G,p.D549E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151257641,G
+1186,TNNI3,c.433C>T,p.R145W,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665514,G
+1187,TNNI3,c.433C>G,p.R145G,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665514,G
+1188,MYBPC3,c.3751T>C,p.Y1251H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47353686,A
+1189,TNNI3,c.550G>A,p.E184K,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr19:55663285,C
+1191,MYH7,c.2525G>A,p.S842N,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894132,C
+1193,MYH7,c.1892T>C,p.I631T,missense,,VUS,Dilated Cardiomyopathy,substitution,chr14:23896513,A
+1194,MYH7,c.5740G>A,p.E1914K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23883018,C
+1195,LDB3,c.899C>A,p.T300N,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr10:88466290,C
+1196,MYBPC3,c.636C>G,p.S212R,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47371343,G
+1197,GLA,c.613C>A,p.P205T,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:100655680,G
+1198,MYBPC3,c.3233G>A,p.W1078X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354842,C
+1199,MYH7,c.2770G>C,p.E924Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893268,C
+1201,MYBPC3,c.2560A>G,p.M854V,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47358984,T
+1202,MYH7,c.3158G>A,p.R1053Q,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23891476,C
+1203,MYBPC3,c.1037G>A,p.R346H,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47367811,C
+1204,MYH7,c.728G>A,p.R243H,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23900798,C
+1205,MYBPC3,c.506-1G>T,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47371474,C
+1206,TNNI3,c.236G>T,p.R79L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr19:55667615,C
+1208,MYH7,c.4276G>A,p.E1426K,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23886789,C
+1209,DES,c.1285C>T,p.R429X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr2:220288539,C
+1210,MYBPC3,c.121C>T,p.R41C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47372961,G
+1211,MYH7,c.4638G>T,p.E1546D,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23886083,C
+1212,MYBPC3,c.3332_3335dupAGTG,p.W1112X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354520-47354523,.
+1213,MYBPC3,c.25+1G>A,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47374173,C
+1214,MYH7,c.2171T>A,p.I724N,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23895019,A
+1215,TNNI3,c.292C>T,p.R98X,nonsense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr19:55666189,G
+1216,MYBPC3,c.436A>C,p.T146P,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47371634,T
+1217,MYH7,c.4030C>T,p.R1344W,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr14:23887558,G
+1218,PKP2,c.1237C>T,p.R413X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33003841,G
+1219,MYBPC3,c.932C>A,p.S311X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367916,G
+1220,MYH7,c.4130C>T,p.T1377M,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23887458,G
+1222,TTN,c.56572C>T,p.R18858X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179463948,G
+1223,DSP,c.2900C>G,p.S967X,nonsense,Pathogenic,,Dilated Cardiomyopathy,substitution,chr6:7578034,C
+1224,MYBPC3,c.1000G>T,p.E334X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367848,C
+1225,LMNA,c.992G>A,p.R331Q,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:156105747,G
+1226,TNNT2,c.536C>T,p.S179F,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201332458,G
+1227,MYH7,c.1888C>T,p.P630S,missense,,VUS,Dilated Cardiomyopathy,substitution,chr14:23896794,G
+1228,DSP,c.478C>T,p.R160X,nonsense,Pathogenic,,Dilated Cardiomyopathy,substitution,chr6:7559514,C
+1229,MYH7,c.1816G>A,p.V606M,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23896866,C
+1231,MYBPC3,c.1724G>T,p.G575V,missense,VUS,,Dilated Cardiomyopathy,substitution,chr11:47363608,C
+1232,MYBPC3,c.3797G>A,p.C1266Y,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47353640,C
+1233,MYBPC3,c.506-1G>A,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47371474,C
+1234,MYBPC3,c.2939G>A,p.R980H,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47355528,C
+1235,TPM1,c.58G>A,p.D20N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:63335086,G
+1238,MYH7,c.4919A>G,p.Q1640R,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23885247,T
+1239,MYH7,c.1063G>A,p.A355T,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23899059,C
+1242,MYBPC3,c.999C>G,p.Y333X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47367849,G
+1243,TNNT2,c.275G>A,p.R92Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334425,C
+1244,DSC2,c.619G>C,p.E207Q,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:28669413,C
+1246,MYH7,c.2146G>A,p.G716R,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895189,C
+1247,TTN,c.64453C>T,p.R21485X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179450018,G
+1249,MYBPC3,c.821+1G>C,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47369407,C
+1250,TNNT2,c.269T>A,p.I90N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201334431,A
+1251,MYBPC3,c.3257G>A,p.W1086X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47354818,C
+1252,LMNA,c.266G>A,p.R89H,missense,,VUS,Dilated Cardiomyopathy,substitution,chr1:156084975,G
+1253,MYH7,c.2348G>A,p.R783H,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23894566,C
+1254,NEXN,c.1366G>A,p.G456R,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:78401622,G
+1255,PKP2,c.2058T>A,p.Y686X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32974377,A
+1256,ACTC1,c.850A>T,p.I284F,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:35083455,T
+1257,MYBPC3,c.481C>A,p.P161T,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47371589,G
+1258,PKP2,c.1132C>T,p.Q378X,nonsense,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33021899,G
+1259,MYBPC3,c.3181C>T,p.Q1061X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355117,G
+1260,VCL,c.952C>T,p.R318C,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:75843201,C
+1261,VCL,c.3226C>T,p.R1076W,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:75874625,C
+1262,MYH7,c.2221G>T,p.G741W,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894969,C
+1263,FHL1,c.343G>T,p.V115L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135289962,G
+1264,MYH7,c.5749G>T,p.V1917F,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23883009,C
+1265,MYBPC3,c.2557G>A,p.G853S,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47358987,C
+1267,MYH7,c.1318G>A,p.V440M,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898253,C
+1268,MYBPC3,c.1535T>A,p.L512Q,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364218,A
+1269,MYL2,c.80A>G,p.Q27R,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111356921,T
+1270,MYBPC3,c.2938C>T,p.R980C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47355529,G
+1271,MYBPC3,c.3752A>G,p.Y1251C,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47353685,T
+1273,MYH7,c.2273T>G,p.F758C,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23894917,A
+1274,MYH7,c.2708A>G,p.E903G,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23893330,T
+1276,MYL2,c.84A>T,p.E28D,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111356917,T
+1277,MYBPC3,c.2528_2536delAGATGCGCG,p.Glu843_Arg845del,inframe,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359008-47359016,.
+1278,ABCC9,c.2149G>A,p.A717T,missense,,VUS,Dilated Cardiomyopathy,substitution,chr12:22025608,C
+1279,TNNT2,c.274C>T,p.R92W,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334426,G
+1280,MYBPC3,c.2968C>G,p.P990A,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47355499,G
+1281,TPM1,c.761A>G,p.D254G,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63354833,A
+1283,TTN,c.61495C>T,p.R20499X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179454957,G
+1285,MYH7,c.2129C>A,p.P710H,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895206,G
+1286,TNNT2,c.400C>G,p.R134G,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr1:201333485,G
+1287,MYBPC3,c.1123G>A,p.V375M,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47365143,C
+1289,MYBPC3,c.1924C>T,p.Q642X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47362557,G
+1290,MYH7,c.1479G>A,p.M493I,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23897808,C
+1291,MYH7,c.1562T>C,p.I521T,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23897725,A
+1292,TNNT2,c.238C>T,p.P80S,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201334764,G
+1293,TNNI3,c.526G>A,p.V176M,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665421,C
+1294,MYH7,c.1063G>T,p.A355S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23899059,C
+1295,MYL2,c.260G>C,p.G87A,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111352004,C
+1296,PKP2,c.1114G>A,p.A372T,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33021917,C
+1298,TNNT2,c.571-1G>A,,essential splice site,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201331523,C
+1299,MYH7,c.1405G>A,p.D469N,missense,VUS,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23898166,C
+1300,ACTC1,c.752C>G,p.T251S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:35084347,G
+1301,GLA,c.829T>G,p.W277G,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chrX:100653528,A
+1303,MYH7,c.500C>T,p.T167I,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23901850,G
+1304,MYH7,c.3734T>A,p.L1245Q,missense,,VUS,Dilated Cardiomyopathy,substitution,chr14:23888811,A
+1305,MYH7,c.28G>C,p.G10R,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23902914,C
+1306,MYBPC3,c.2437A>T,p.K813X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47359107,T
+1308,MYH7,c.5332C>T,p.H1778Y,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23884431,G
+1309,PRKAG2,c.1518A>C,p.E506D,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr7:151261230,T
+1311,MYBPC3,c.821+2T>C,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47369406,A
+1312,MYH7,c.532G>A,p.G178R,missense,Likely Pathogenic,,Dilated Cardiomyopathy,substitution,chr14:23901077,C
+1315,TTN,c.12358C>T,p.Q4120X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179605602,G
+1316,MYH7,c.2606G>A,p.R869H,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23894051,C
+1317,TCAP,c.472C>A,p.R158S,missense,,VUS,Dilated Cardiomyopathy,substitution,chr17:37822330,C
+1318,MYH7,c.5029C>T,p.R1677C,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23884966,G
+1319,TNNT2,c.256G>T,p.D86Y,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201334746,C
+1320,DSG2,c.178G>A,p.E60K,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29099862,G
+1322,LAMP2,c.1058A>C,p.Q353P,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:119575620,T
+1323,TNNT2,c.249G>C,p.E83D,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201334753,C
+1324,MYBPC3,c.355G>A,p.E119K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47372104,C
+1325,MYBPC3,c.3316G>A,p.D1106N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47354759,C
+1327,TNNT2,c.807C>A,p.N269K,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr1:201328765,G
+1329,MYH7,c.345C>A,p.Y115X,nonsense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23902293,G
+1331,MYBPC3,c.1405C>T,p.Q469X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47364433,G
+1332,DSP,c.353T>A,p.M118K,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7558428,T
+1333,DSG2,c.523+1G>A,,essential splice site,Likely Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr18:29101207,G
+1334,MYBPC3,c.2308G>A,p.D770N,missense,Likely Pathogenic,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47360071,C
+1335,MYBPC3,c.2671C>T,p.R891W,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47357494,G
+1336,MYBPC3,c.451G>A,p.D151N,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47371619,C
+1337,TTN,c.63025C>T,p.R21009X,nonsense,VUS,,Dilated Cardiomyopathy,substitution,chr2:179453427,G
+1338,MYH7,c.1477A>G,p.M493V,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23897810,T
+1341,TCAP,c.269C>T,p.P90L,missense,,VUS,Dilated Cardiomyopathy,substitution,chr17:37822127,C
+1342,MYH7,c.2570C>T,p.T857I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23894087,G
+1343,LDB3,c.2155A>G,p.K719E,missense,,VUS,Dilated Cardiomyopathy,substitution,chr10:88492704,A
+1344,MYBPC3,c.1898-1G>A,,essential splice site,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47362584,C
+1345,LAMP2,c.56T>G,p.L19R,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:119602969,A
+1349,TTN,c.86821+2T>A,,essential splice site,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr2:179424036,A
+1350,MYBPC3,c.1458G>A,p.W486X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47364295,C
+1351,MYH7,c.3455A>T,p.E1152V,missense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr14:23889325,T
+1352,MYBPC3,c.3190+2T>G,,essential splice site,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47355106,A
+1353,MYBPC3,c.3580G>A,p.A1194T,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47354164,C
+1354,ACTC1,c.110T>C,p.V37A,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:35086900,A
+1355,MYL2,c.313G>A,p.V105M,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr12:111351090,C
+1356,DSP,c.859A>G,p.N287D,missense,VUS,,Dilated Cardiomyopathy,substitution,chr6:7565673,A
+1357,PKP2,c.337-2A>T,,essential splice site,Pathogenic,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:33031479,T
+1359,MYBPC3,c.814C>T,p.R272C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47369415,G
+1360,MYBPC3,c.3415G>A,p.V1139I,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47354440,C
+1361,TPM1,c.559G>C,p.E187Q,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63353134,G
+1362,MYH7,c.4985G>A,p.R1662H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23885010,C
+1365,FHL1,c.113A>G,p.N38S,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chrX:135288704,A
+1366,MYH7,c.4144C>T,p.R1382W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23887444,G
+1368,TNNT2,c.392G>A,p.R131Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr1:201333493,C
+1369,ACTC1,c.806T>C,p.I269T,missense,,VUS favour pathogenic,Dilated Cardiomyopathy,substitution,chr15:35084293,A
+1370,ACTC1,c.793C>G,p.Q265E,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:35084306,G
+1372,MYBPC3,c.1072G>A,p.D358N,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47367776,C
+1373,MYL2,c.482A>G,p.H161R,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr12:111348900,T
+1375,MYH7,c.5002A>G,p.K1668E,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23884993,T
+1376,MYBPC3,c.2518G>A,p.V840M,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47359026,C
+1377,MYH7,c.830T>C,p.L277P,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900175,A
+1378,TNNI3,c.431T>C,p.L144P,missense,Likely Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55665516,A
+1379,PRKAG2,c.1592G>A,p.R531Q,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr7:151257696,C
+1380,MYH7,c.2631G>C,p.M877I,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23894026,C
+1381,MYBPC3,c.3005G>A,p.R1002Q,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47355293,C
+1383,MYBPC3,c.711C>A,p.Y237X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47370036,G
+1384,TPM1,c.457C>G,p.H153D,missense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63351844,C
+1385,MYH7,c.3134G>T,p.R1045L,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23891500,C
+1386,PKP2,c.2062T>C,p.S688P,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr12:32974373,A
+1387,MYH7,c.2707G>C,p.E903Q,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23893331,C
+1388,MYH7,c.3284A>G,p.E1095G,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23890219,T
+1389,MYBPC3,c.2708G>A,p.G903D,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47357457,C
+1390,NEXN,c.1453G>A,p.E485K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:78401709,G
+1391,MYL2,c.374C>T,p.T125M,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr12:111350928,G
+1392,MYH7,c.4030C>T,p.R1344W,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23887558,G
+1393,DSP,c.3764G>A,p.R1255K,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7580187,G
+1394,MYBPC3,c.1201C>T,p.Q401X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr11:47365065,G
+1395,TNNT2,c.106G>C,p.A36P,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201337317,C
+1396,MYL3,c.427G>A,p.E143K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr3:46901019,C
+1397,MYH7,c.2178C>A,p.N726K,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23895012,G
+1399,MYBPC3,c.1373G>A,p.R458H,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47364465,C
+1400,MYH7,c.2052G>A,p.M684I,missense,,VUS favour benign,Hypertrophic Cardiomyopathy,substitution,chr14:23895283,C
+1401,TPM1,c.790A>G,p.K264E,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr15:63356280,A
+1402,MYH7,c.4787C>T,p.S1596L,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23885379,G
+1403,MYBPC3,c.1504C>T,p.R502W,missense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364249,G
+1404,MYH7,c.3974C>T,p.A1325V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23887614,G
+1405,MYH7,c.506G>A,p.R169K,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23901712,C
+1406,TNNI3,c.607G>C,p.G203R,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr19:55663228,C
+1407,MYBPC3,c.3253G>T,p.E1085X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47354822,C
+1408,TPM1,c.715G>A,p.A239T,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr15:63354787,G
+1409,MYBPC3,c.566T>A,p.V189D,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47371413,A
+1410,MYBPC3,c.1869C>A,p.C623X,nonsense,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47362717,G
+1412,MYBPC3,c.1483C>T,p.R495W,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364270,G
+1413,TNNI3,c.488C>T,p.A163V,missense,,VUS,Dilated Cardiomyopathy,substitution,chr19:55665459,G
+1414,MYBPC3,c.1422G>C,p.E474D,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47364416,C
+1415,MYH7,c.5344A>G,p.M1782V,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23884419,T
+1416,MYH7,c.707T>C,p.V236A,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900819,A
+1417,MYH7,c.135G>T,p.E45D,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr14:23902807,C
+1418,TPM1,c.850A>G,p.I284V,missense,VUS,VUS,Hypertrophic Cardiomyopathy,substitution,chr15:63356340,A
+1419,MYBPC3,c.1188G>T,p.W396C,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47365078,C
+1421,DSP,c.1352G>A,p.R451H,missense,VUS,,Arrhythmogenic Right Ventricular Cardiomyopathy,substitution,chr6:7568755,G
+1422,MYBPC3,c.2198G>A,p.R733H,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47360181,C
+1423,ABCC9,c.169C>T,p.Q57X,nonsense,,Likely Pathogenic,Dilated Cardiomyopathy,substitution,chr12:22086831,G
+1424,FHL1,c.331G>T,p.G111X,nonsense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chrX:135289349,G
+1425,MYBPC3,c.26-2A>G,,essential splice site,,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47373058,T
+1426,MYBPC3,c.2654C>T,p.T885M,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47357511,G
+1427,MYBPC3,c.166G>A,p.G56S,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47372916,C
+1428,GLA,c.1117G>A,p.G373S,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chrX:100652970,C
+1429,MYBPC3,c.2882C>T,p.P961L,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47356616,G
+1430,MYBPC3,c.2197C>T,p.R733C,missense,Likely Pathogenic,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47360182,G
+1431,MYBPC3,c.1397T>A,p.M466K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr11:47364441,A
+1432,MYH7,c.2104A>G,p.I702V,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23895231,T
+1433,MYH7,c.694A>C,p.N232H,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23900832,T
+1434,MYBPC3,c.1484G>A,p.R495Q,missense,Likely Pathogenic,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47364269,C
+1435,MYH7,c.1045A>G,p.M349V,missense,VUS,,Dilated Cardiomyopathy,substitution,chr14:23899077,T
+1436,MYH7,c.1216G>A,p.V406M,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr14:23898479,C
+1437,MYH7,c.743T>C,p.I248T,missense,,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23900680,A
+1438,MYH7,c.3803G>C,p.R1268P,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr14:23888742,C
+1439,TNNI3,c.407G>A,p.R136Q,missense,Likely Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr19:55665540,C
+1440,MYBPC3,c.2641G>A,p.V881I,missense,,VUS,Dilated Cardiomyopathy,substitution,chr11:47357524,C
+1441,TNNT2,c.247G>A,p.E83K,missense,,VUS,Hypertrophic Cardiomyopathy,substitution,chr1:201334755,C
+1442,MYBPC3,c.2503C>T,p.R835C,missense,VUS,,Hypertrophic Cardiomyopathy,substitution,chr11:47359041,G
+1443,TNNI3,c.532A>G,p.K178E,missense,Pathogenic,,Hypertrophic Cardiomyopathy,substitution,chr19:55665415,T
+1444,MYH7,c.4124A>G,p.Y1375C,missense,VUS,Likely Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr14:23887464,T
+1445,MYBPC3,c.2905C>T,p.Q969X,nonsense,Pathogenic,Pathogenic,Hypertrophic Cardiomyopathy,substitution,chr11:47356593,G
+1446,TNNI3,c.579G>C,p.K193N,missense,,VUS favour pathogenic,Hypertrophic Cardiomyopathy,substitution,chr19:55663256,C
